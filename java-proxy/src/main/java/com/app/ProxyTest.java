@@ -7,7 +7,7 @@ package com.app;
 
 /**
  *
- * @author deepakk
+ * @author Deepak Katariya
  */
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.InvocationTargetException;
@@ -68,6 +68,7 @@ class ProxyFactory {
     }
 }
 
+//this is driver class
 public class ProxyTest {
 
     public static void main(String[] args) {
